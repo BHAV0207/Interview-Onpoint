@@ -1,5 +1,4 @@
 .env
-places_results.json
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

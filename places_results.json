@@ -1,0 +1,595 @@
+[
+  {
+    "searched_brand": "Starbucks",
+    "searched_area": "Koramangala Bangalore",
+    "query": "Starbucks in Koramangala Bangalore",
+    "place_id": "ChIJuYvpOPgVrjsRfGoFACg3NtA",
+    "name": "Starbucks",
+    "address": "756, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+    "latitude": 12.932400699999999,
+    "longitude": 77.6315671,
+    "types": [
+      "coffee_shop",
+      "snack_bar",
+      "meal_takeaway",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "coffee_shop",
+    "google_maps_uri": "https://maps.google.com/?cid=15003239853569960572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-22/",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJuYvpOPgVrjsRfGoFACg3NtA",
+      "types": [
+        "coffee_shop",
+        "snack_bar",
+        "meal_takeaway",
+        "cafe",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "756, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "location": {
+        "latitude": 12.932400699999999,
+        "longitude": 77.6315671
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15003239853569960572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-22/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Starbucks",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    }
+  },
+  {
+    "searched_brand": "Starbucks",
+    "searched_area": "Koramangala Bangalore",
+    "query": "Starbucks in Koramangala Bangalore",
+    "place_id": "ChIJhe9bYAAVrjsRwrnr9zK3YH8",
+    "name": "Starbucks",
+    "address": "The Nexus Mall, Ground, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.934441,
+    "longitude": 77.6107572,
+    "types": [
+      "coffee_shop",
+      "snack_bar",
+      "meal_takeaway",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "coffee_shop",
+    "google_maps_uri": "https://maps.google.com/?cid=9178537470116739522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-50/",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJhe9bYAAVrjsRwrnr9zK3YH8",
+      "types": [
+        "coffee_shop",
+        "snack_bar",
+        "meal_takeaway",
+        "cafe",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "The Nexus Mall, Ground, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+      "location": {
+        "latitude": 12.934441,
+        "longitude": 77.6107572
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9178537470116739522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-50/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Starbucks",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    }
+  },
+  {
+    "searched_brand": "Starbucks",
+    "searched_area": "Indiranagar Bangalore",
+    "query": "Starbucks in Indiranagar Bangalore",
+    "place_id": "ChIJL4tWyRwUrjsRVsXqFMlzol4",
+    "name": "Starbucks",
+    "address": "No 945, Ground Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+    "latitude": 12.970201,
+    "longitude": 77.63989400000001,
+    "types": [
+      "coffee_shop",
+      "snack_bar",
+      "meal_takeaway",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "coffee_shop",
+    "google_maps_uri": "https://maps.google.com/?cid=6819140093268903254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-3/",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJL4tWyRwUrjsRVsXqFMlzol4",
+      "types": [
+        "coffee_shop",
+        "snack_bar",
+        "meal_takeaway",
+        "cafe",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "No 945, Ground Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "location": {
+        "latitude": 12.970201,
+        "longitude": 77.63989400000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6819140093268903254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-3/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Starbucks",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    }
+  },
+  {
+    "searched_brand": "Starbucks",
+    "searched_area": "Indiranagar Bangalore",
+    "query": "Starbucks in Indiranagar Bangalore",
+    "place_id": "ChIJhRlmCKsXrjsRG3BtPTj8v_U",
+    "name": "Starbucks",
+    "address": "721, Chinmaya Mission Hospital Rd, 1st Stage, First Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+    "latitude": 12.978394999999999,
+    "longitude": 77.6450141,
+    "types": [
+      "coffee_shop",
+      "snack_bar",
+      "meal_takeaway",
+      "cafe",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "coffee_shop",
+    "google_maps_uri": "https://maps.google.com/?cid=17708149578323030043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-26/",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJhRlmCKsXrjsRG3BtPTj8v_U",
+      "types": [
+        "coffee_shop",
+        "snack_bar",
+        "meal_takeaway",
+        "cafe",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "721, Chinmaya Mission Hospital Rd, 1st Stage, First Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "location": {
+        "latitude": 12.978394999999999,
+        "longitude": 77.6450141
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17708149578323030043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-26/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Starbucks",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    }
+  },
+  {
+    "searched_brand": "Starbucks",
+    "searched_area": "HSR Layout Bangalore",
+    "query": "Starbucks in HSR Layout Bangalore",
+    "place_id": "ChIJwyUY6nAVrjsRTLWVdlz0dLw",
+    "name": "Starbucks",
+    "address": "Ground Floor, Prakash Arcade 17th Cross, 24th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+    "latitude": 12.9121583,
+    "longitude": 77.6507972,
+    "types": [
+      "coffee_shop",
+      "snack_bar",
+      "cafe",
+      "meal_takeaway",
+      "food_store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "primary_type": "coffee_shop",
+    "google_maps_uri": "https://maps.google.com/?cid=13579747454392579404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-29/",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJwyUY6nAVrjsRTLWVdlz0dLw",
+      "types": [
+        "coffee_shop",
+        "snack_bar",
+        "cafe",
+        "meal_takeaway",
+        "food_store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "formattedAddress": "Ground Floor, Prakash Arcade 17th Cross, 24th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "location": {
+        "latitude": 12.9121583,
+        "longitude": 77.6507972
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13579747454392579404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://stores.starbucks.in/store-pages/starbucks-bangalore-29/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Starbucks",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    }
+  },
+  {
+    "searched_brand": "McDonald's",
+    "searched_area": "Koramangala Bangalore",
+    "query": "McDonald's in Koramangala Bangalore",
+    "place_id": "ChIJLTotOk4UrjsRfLRJxk_HbVs",
+    "name": "McDonald's",
+    "address": "Unit No 10, AKS Plaza No 10, Jyoti Nivas College Rd, opposite Forum Mall Musallah Masjid, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.9353688,
+    "longitude": 77.6155361,
+    "types": [
+      "fast_food_restaurant",
+      "coffee_shop",
+      "family_restaurant",
+      "breakfast_restaurant",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "meal_delivery",
+      "food_delivery",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "fast_food_restaurant",
+    "google_maps_uri": "https://maps.google.com/?cid=6588140975355966588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://mcdelivery.co.in/restaurants/bengaluru/124/order-food-online-in-McDonalds-koramangala-jncroadkoramangala",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJLTotOk4UrjsRfLRJxk_HbVs",
+      "types": [
+        "fast_food_restaurant",
+        "coffee_shop",
+        "family_restaurant",
+        "breakfast_restaurant",
+        "cafe",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "meal_delivery",
+        "food_delivery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Unit No 10, AKS Plaza No 10, Jyoti Nivas College Rd, opposite Forum Mall Musallah Masjid, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+      "location": {
+        "latitude": 12.9353688,
+        "longitude": 77.6155361
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6588140975355966588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mcdelivery.co.in/restaurants/bengaluru/124/order-food-online-in-McDonalds-koramangala-jncroadkoramangala",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "primaryType": "fast_food_restaurant"
+    }
+  },
+  {
+    "searched_brand": "McDonald's",
+    "searched_area": "Koramangala Bangalore",
+    "query": "McDonald's in Koramangala Bangalore",
+    "place_id": "ChIJV_YlT6kVrjsRiY57pJa6maM",
+    "name": "McDonald's Nexus Mall Food Court",
+    "address": "Shop No.14, 2nd Floor, Food Court, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.934350799999999,
+    "longitude": 77.6114597,
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "fast_food_restaurant",
+    "google_maps_uri": "https://maps.google.com/?cid=11788658655786405513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://mcdelivery.co.in/",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJV_YlT6kVrjsRiY57pJa6maM",
+      "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Shop No.14, 2nd Floor, Food Court, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+      "location": {
+        "latitude": 12.934350799999999,
+        "longitude": 77.6114597
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11788658655786405513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mcdelivery.co.in/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's Nexus Mall Food Court",
+        "languageCode": "en"
+      },
+      "primaryType": "fast_food_restaurant"
+    }
+  },
+  {
+    "searched_brand": "McDonald's",
+    "searched_area": "Koramangala Bangalore",
+    "query": "McDonald's in Koramangala Bangalore",
+    "place_id": "ChIJh0FMkE0UrjsR7lWOg2SH1S8",
+    "name": "McDonald's",
+    "address": "Ground Floor, Nexus Mall, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.935511199999999,
+    "longitude": 77.6099526,
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "fast_food_restaurant",
+    "google_maps_uri": "https://maps.google.com/?cid=3446809955595605486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": null,
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJh0FMkE0UrjsR7lWOg2SH1S8",
+      "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Ground Floor, Nexus Mall, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+      "location": {
+        "latitude": 12.935511199999999,
+        "longitude": 77.6099526
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3446809955595605486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "primaryType": "fast_food_restaurant"
+    }
+  },
+  {
+    "searched_brand": "McDonald's",
+    "searched_area": "Koramangala Bangalore",
+    "query": "McDonald's in Koramangala Bangalore",
+    "place_id": "ChIJbbdDJCsVrjsRpBUjx8w3-Ok",
+    "name": "McDonald's",
+    "address": "Mantri Avenue, KHB Games Village, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.9450902,
+    "longitude": 77.620019,
+    "types": [
+      "fast_food_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "fast_food_restaurant",
+    "google_maps_uri": "https://maps.google.com/?cid=16859286557715273124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://mcdelivery.co.in/restaurants/bengaluru/337/order-food-online-in-McDonalds-koramangalamantrijupitermall-koramangala",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJbbdDJCsVrjsRpBUjx8w3-Ok",
+      "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Mantri Avenue, KHB Games Village, Koramangala, Bengaluru, Karnataka 560095, India",
+      "location": {
+        "latitude": 12.9450902,
+        "longitude": 77.620019
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16859286557715273124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mcdelivery.co.in/restaurants/bengaluru/337/order-food-online-in-McDonalds-koramangalamantrijupitermall-koramangala",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "primaryType": "fast_food_restaurant"
+    }
+  },
+  {
+    "searched_brand": "McDonald's",
+    "searched_area": "Indiranagar Bangalore",
+    "query": "McDonald's in Indiranagar Bangalore",
+    "place_id": "ChIJWcf686QWrjsR1jgchsS26S4",
+    "name": "McDonald's",
+    "address": "No 539, Ground Floor, Ashwini Complex, Chinmaya Mission Hospital Rd, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+    "latitude": 12.9781014,
+    "longitude": 77.6385332,
+    "types": [
+      "fast_food_restaurant",
+      "meal_delivery",
+      "family_restaurant",
+      "breakfast_restaurant",
+      "food_delivery",
+      "coffee_shop",
+      "dessert_shop",
+      "confectionery",
+      "cafe",
+      "restaurant",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "fast_food_restaurant",
+    "google_maps_uri": "https://maps.google.com/?cid=3380433950498109654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://mcdelivery.co.in/restaurants/bengaluru/77/order-food-online-in-McDonalds-cmh-indiranagar",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJWcf686QWrjsR1jgchsS26S4",
+      "types": [
+        "fast_food_restaurant",
+        "meal_delivery",
+        "family_restaurant",
+        "breakfast_restaurant",
+        "food_delivery",
+        "coffee_shop",
+        "dessert_shop",
+        "confectionery",
+        "cafe",
+        "restaurant",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "No 539, Ground Floor, Ashwini Complex, Chinmaya Mission Hospital Rd, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "location": {
+        "latitude": 12.9781014,
+        "longitude": 77.6385332
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3380433950498109654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mcdelivery.co.in/restaurants/bengaluru/77/order-food-online-in-McDonalds-cmh-indiranagar",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "primaryType": "fast_food_restaurant"
+    }
+  },
+  {
+    "searched_brand": "McDonald's",
+    "searched_area": "HSR Layout Bangalore",
+    "query": "McDonald's in HSR Layout Bangalore",
+    "place_id": "ChIJRwZR3ZEUrjsR-F0llyJnP4g",
+    "name": "McDonald's",
+    "address": "1, 14th Main Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+    "latitude": 12.9121069,
+    "longitude": 77.6379062,
+    "types": [
+      "fast_food_restaurant",
+      "family_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "meal_delivery",
+      "food_delivery",
+      "cafe",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "primary_type": "fast_food_restaurant",
+    "google_maps_uri": "https://maps.google.com/?cid=9817679110953328120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "website_uri": "https://mcdelivery.co.in/restaurants/bengaluru/88/order-food-online-in-McDonalds-hsrlayout-hsrlayoutnoone",
+    "business_status": "OPERATIONAL",
+    "raw_response": {
+      "id": "ChIJRwZR3ZEUrjsR-F0llyJnP4g",
+      "types": [
+        "fast_food_restaurant",
+        "family_restaurant",
+        "dessert_shop",
+        "confectionery",
+        "breakfast_restaurant",
+        "coffee_shop",
+        "meal_delivery",
+        "food_delivery",
+        "cafe",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1, 14th Main Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "location": {
+        "latitude": 12.9121069,
+        "longitude": 77.6379062
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9817679110953328120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mcdelivery.co.in/restaurants/bengaluru/88/order-food-online-in-McDonalds-hsrlayout-hsrlayoutnoone",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "primaryType": "fast_food_restaurant"
+    }
+  }
+]
